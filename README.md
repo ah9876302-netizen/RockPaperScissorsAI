@@ -1,2 +1,22 @@
-# RockPaperScissorsAI
-This project is an AI-powered Rock Paper Scissors game built using Python and Machine Learning. The AI learns to predict the player’s moves and responds strategically, making the game more challenging than random guessing.  It’s a fun way to explore:  🎮 Game logic implementation  🧠 Machine Learning basics  🐍 Python programming
+# 🎮 Rock-Paper-Scissors AI
+
+A simple **Rock-Paper-Scissors** game built in Python, where you play against the computer.  
+The computer makes random choices, and you try to beat it!
+
+---
+
+## ✨ Features
+- Play against the computer (AI).
+- User-friendly text interface.
+- Randomized computer moves.
+- Easy to extend (add scoring system, GUI, or advanced AI).
+- Clean and modular code (`gamebase.py` + `game.py`).
+
+---
+
+## 🛠 Requirements
+- Python 3.8 or higher
+- Install dependencies:
+
+```bash
+pip install -r requirements.txt
